@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/home/miguel/coding/nigth-sync/night-sync/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="1" lineNum="29" parent="globals" pc="268435460" symbol="getApp"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="1" lineNum="30" parent="globals" pc="268435470" symbol="getApp"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="2" lineNum="4" parent="globals/night_syncView" pc="268435481" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="3" lineNum="7" parent="globals/Rez" pc="268435493" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="4" lineNum="5" parent="globals/night_syncApp" pc="268435513" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="5" lineNum="5" parent="globals/night_syncMenuDelegate" pc="268435525" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="6" lineNum="4" parent="globals/night_syncDelegate" pc="268435537" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="8" lineNum="11" parent="globals/night_syncView" pc="268435549" symbol="onLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="8" lineNum="12" parent="globals/night_syncView" pc="268435551" symbol="onLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="9" lineNum="6" parent="globals/night_syncView" pc="268435585" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="9" lineNum="7" parent="globals/night_syncView" pc="268435587" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="11" lineNum="22" parent="globals/night_syncView" pc="268435600" symbol="onUpdate"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncView.mc" id="11" lineNum="24" parent="globals/night_syncView" pc="268435602" symbol="onUpdate"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="12" lineNum="13" parent="globals/night_syncApp" pc="268435619" symbol="onStart"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="12" lineNum="14" parent="globals/night_syncApp" pc="268435621" symbol="onStart"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="13" lineNum="23" parent="globals/night_syncApp" pc="268435641" symbol="getInitialView"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="13" lineNum="24" parent="globals/night_syncApp" pc="268435643" symbol="getInitialView"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="14" lineNum="7" parent="globals/night_syncApp" pc="268435698" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="14" lineNum="8" parent="globals/night_syncApp" pc="268435700" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="14" lineNum="9" parent="globals/night_syncApp" pc="268435712" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="15" lineNum="18" parent="globals/night_syncApp" pc="268435732" symbol="onStop"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" id="15" lineNum="19" parent="globals/night_syncApp" pc="268435734" symbol="onStop"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="16" lineNum="11" parent="globals/night_syncMenuDelegate" pc="268435754" symbol="onMenuItem"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="16" lineNum="12" parent="globals/night_syncMenuDelegate" pc="268435756" symbol="onMenuItem"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="16" lineNum="13" parent="globals/night_syncMenuDelegate" pc="268435767" symbol="onMenuItem"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="16" lineNum="14" parent="globals/night_syncMenuDelegate" pc="268435788" symbol="onMenuItem"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="16" lineNum="15" parent="globals/night_syncMenuDelegate" pc="268435799" symbol="onMenuItem"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="17" lineNum="7" parent="globals/night_syncMenuDelegate" pc="268435821" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncMenuDelegate.mc" id="17" lineNum="8" parent="globals/night_syncMenuDelegate" pc="268435823" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="18" lineNum="10" parent="globals/night_syncDelegate" pc="268435836" symbol="onMenu"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="18" lineNum="11" parent="globals/night_syncDelegate" pc="268435838" symbol="onMenu"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="18" lineNum="12" parent="globals/night_syncDelegate" pc="268435907" symbol="onMenu"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="19" lineNum="6" parent="globals/night_syncDelegate" pc="268435909" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/source/night-syncDelegate.mc" id="19" lineNum="7" parent="globals/night_syncDelegate" pc="268435911" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="20" lineNum="14" parent="globals/Rez/Layouts" pc="268435924" symbol="MainLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="20" lineNum="15" parent="globals/Rez/Layouts" pc="268435935" symbol="MainLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="20" lineNum="17" parent="globals/Rez/Layouts" pc="268436035" symbol="MainLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="20" lineNum="18" parent="globals/Rez/Layouts" pc="268436119" symbol="MainLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436151" symbol="MainLayout"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="21" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268436166" symbol="&lt;init&gt;"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="22" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268436178" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="22" lineNum="27" parent="globals/Rez/Menus/MainMenu" pc="268436180" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="22" lineNum="28" parent="globals/Rez/Menus/MainMenu" pc="268436192" symbol="initialize"/>
+        <entry filename="/home/miguel/coding/nigth-sync/night-sync/bin/gen/006-B4596-00/source/Rez.mcgen" id="22" lineNum="29" parent="globals/Rez/Menus/MainMenu" pc="268436237" symbol="initialize"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8389346" symbol="text"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="5" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="15" method="true" symbol="MainLayout"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8" object="true" symbol="night_syncDelegate"/>
+        <entry field="true" id="17" symbol="AppName"/>
+        <entry id="6" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry field="true" id="20" symbol="prompt"/>
+        <entry field="true" id="14" symbol="id_monkey"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="22" symbol="item_2"/>
+        <entry id="21" symbol="item_1"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="4" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="16" object="true" symbol="MainMenu"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="9" object="true" symbol="night_syncMenuDelegate"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="13" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="7" object="true" symbol="night_syncApp"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389109" method="true" symbol="onMenuItem"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="10" object="true" symbol="night_syncView"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="19" symbol="menu_label_2"/>
+        <entry field="true" id="18" symbol="menu_label_1"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435584" name="dc" stackId="1" startPc="268435549"/>
+        <entry arg="true" endPc="268435618" name="dc" stackId="1" startPc="268435600"/>
+        <entry arg="true" endPc="268435640" name="state" stackId="1" startPc="268435619"/>
+        <entry arg="true" endPc="268435753" name="state" stackId="1" startPc="268435732"/>
+        <entry arg="true" endPc="268435820" name="item" stackId="1" startPc="268435754"/>
+        <entry arg="true" endPc="268436165" name="dc" stackId="1" startPc="268435924"/>
+        <entry endPc="268436165" name="rez_cmp_local_text_1783292234" stackId="2" startPc="268435935"/>
+        <entry endPc="268436165" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268435935"/>
+    </localVars>
+    <deviceInfo deviceVersion="4866e5192c0c99025597cd8e6e841f3d774b64f7" partNumber="006-B4596-00"/>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_monkey"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="67" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/night_syncView" offset="152" parentId="globals" symbolId="night_syncView" type="class"/>
+        <dataEntry label="globals/Rez" offset="232" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/night_syncApp" offset="294" parentId="globals" symbolId="night_syncApp" type="class"/>
+        <dataEntry label="globals/night_syncMenuDelegate" offset="365" parentId="globals" symbolId="night_syncMenuDelegate" type="class"/>
+        <dataEntry label="globals/night_syncDelegate" offset="418" parentId="globals" symbolId="night_syncDelegate" type="class"/>
+        <dataEntry label="globals/Rez/Drawables" offset="471" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="515" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="550" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="585" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/Rez/Menus/MainMenu" offset="647" parentId="Menus" symbolId="MainMenu" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435480" name="getApp" startPc="268435460">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435492" name="&lt;init&gt;" parent="night_syncView" startPc="268435481">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435512" name="&lt;init&gt;" parent="Rez" startPc="268435493">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435524" name="&lt;init&gt;" parent="night_syncApp" startPc="268435513">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435536" name="&lt;init&gt;" parent="night_syncMenuDelegate" startPc="268435525">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435548" name="&lt;init&gt;" parent="night_syncDelegate" startPc="268435537">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="night_syncView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435584" name="onLayout" parent="night_syncView" startPc="268435549">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435599" name="initialize" parent="night_syncView" startPc="268435585">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="night_syncView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435618" name="onUpdate" parent="night_syncView" startPc="268435600">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435640" name="onStart" parent="night_syncApp" startPc="268435619">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435697" name="getInitialView" parent="night_syncApp" startPc="268435641">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435731" name="initialize" parent="night_syncApp" startPc="268435698">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435753" name="onStop" parent="night_syncApp" startPc="268435732">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435820" name="onMenuItem" parent="night_syncMenuDelegate" startPc="268435754">
+            <param id="item"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435835" name="initialize" parent="night_syncMenuDelegate" startPc="268435821">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435908" name="onMenu" parent="night_syncDelegate" startPc="268435836">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435923" name="initialize" parent="night_syncDelegate" startPc="268435909">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436165" name="MainLayout" parent="Layouts" startPc="268435924">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436177" name="&lt;init&gt;" parent="MainMenu" startPc="268436166">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436282" name="initialize" parent="MainMenu" startPc="268436178">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

@@ -1,0 +1,80 @@
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 1; ]
+import Toybox.Application;
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 2; ]
+import Toybox.Lang;
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 3; ]
+import Toybox.WatchUi;
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 5; ]
+class night_syncApp extends Application.AppBase{
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 5; ]
+    <init> {
+    }
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 5; ]
+    static
+    <init> {
+    }
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 7; ]
+    function initialize() as Void {
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_7_26_10_4_start:
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 8 8 ]
+        %tmp.2 = getv ? :AppBase;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 9 8 ]
+        %tmp.5 = getv ? :System;
+        %tmp.6 = getv function %tmp.5 :println;
+        %tmp.7 = "initialize()";
+        invoke %tmp.5 %tmp.6(%tmp.7);
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_7_26_10_4_stop:
+    }
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 13; ]
+    function onStart(state as Dictionary or Null) as Void {
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_13_51_15_4_start:
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 14 8 ]
+        %tmp.2 = getv ? :System;
+        %tmp.3 = getv function %tmp.2 :println;
+        %tmp.4 = "onStart()";
+        invoke %tmp.2 %tmp.3(%tmp.4);
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_13_51_15_4_stop:
+    }
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 18; ]
+    function onStop(state as Dictionary or Null) as Void {
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_18_50_20_4_start:
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 19 8 ]
+        %tmp.2 = getv ? :System;
+        %tmp.3 = getv function %tmp.2 :println;
+        %tmp.4 = "onStop()";
+        invoke %tmp.2 %tmp.3(%tmp.4);
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_18_50_20_4_stop:
+    }
+    [ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 23; ]
+    function getInitialView() as [Views] or [Views, InputDelegates] {
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_23_68_25_4_start:
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 24 8 ]
+        %tmp.1 = newa 2;
+        %tmp.5 = getv ? :night_syncView;
+        %tmp.2 = newc %tmp.5 ();
+        %tmp.6 = dup %tmp.1;
+        %tmp.7 = aputv %tmp.6 0 %tmp.2;
+        %tmp.11 = getv ? :night_syncDelegate;
+        %tmp.8 = newc %tmp.11 ();
+        %tmp.12 = dup %tmp.7;
+        %tmp.13 = aputv %tmp.12 1 %tmp.8;
+        ret %tmp.13;
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_23_68_25_4_stop:
+    }
+}
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 29; ]
+function getApp() as night_syncApp {
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_29_35_31_0_start:
+[ "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc" 30 4 ]
+    %tmp.1 = getm $.Toybox.Application;
+    %tmp.2 = getv function %tmp.1 :getApp;
+    %tmp.3 = invoke %tmp.1 %tmp.2();
+    %tmp.4 = as %tmp.3 night_syncApp;
+    ret %tmp.4;
+_home_miguel_coding_nigth_sync_night_sync_source_night_syncApp_mc_29_35_31_0_stop:
+}
+[ @file = "/home/miguel/coding/nigth-sync/night-sync/source/night-syncApp.mc"; @line = 1; ]
+<init> {
+}
